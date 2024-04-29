@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab8\lab8\lab8\bin\Debug\lab8.exe.config
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab8\lab8\lab8\bin\Debug\lab8.exe
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab8\lab8\lab8\bin\Debug\lab8.pdb
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab8\lab8\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab8\lab8\lab8\obj\Debug\lab8.Form1.resources
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab8\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab8\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab8\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab8\lab8\lab8\obj\Debug\lab8.exe
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab8\lab8\lab8\obj\Debug\lab8.pdb
